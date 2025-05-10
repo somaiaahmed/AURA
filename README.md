@@ -1,4 +1,4 @@
-# AI Business Analyst Chat Interface
+# Business Analyst AI Agent 
 
 A modern, interactive web interface for the AI Business Analyst that helps gather and analyze business requirements through natural conversation.
 
