@@ -1,0 +1,10 @@
+output/
+__pycache__/
+.env
+
+new.py
+process_conversation.py
+
+report.py
+
+README.md
